@@ -1,8 +1,7 @@
-# Dataset for [DSC-MoE]
+# Dataset for [DSC-MoE Pose-Free Semantic-Relation Fusion for Occluded Dual-View Vehicle Detection]
 
-The full dataset is currently being uploaded and will be available here within a few days.
+## Download
+The dataset is available for download via Baidu Cloud:
 
-**Download**  
-Due to the large file size, the dataset is hosted on Baidu Cloud.  
-
-Please check back soon, or watch this repository for updates.
+🔗 **Link**: [https://pan.baidu.com/s/12ewq06qkhGHqOAZrm984tA?pwd=6qpx]  
+🔑 **Extraction code**: `6qpx`
